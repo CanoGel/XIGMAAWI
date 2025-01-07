@@ -502,16 +502,16 @@ header{
 
         .contact-form .form-group.error input,
         .contact-form .form-group.error textarea {
-            border-color: #9B44EA;
+            border-color: #ff0000;
         }
 
         .contact-form .form-group.error .error-message {
-            color: #333333;
+            color: #ff0000;
             font-size: 12px;
             margin-top: 5px;
         }
 
-        #Register{
+        #Comment{
             padding: 100px 350px;
         }
 
